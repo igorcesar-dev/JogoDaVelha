@@ -73,9 +73,9 @@ h1 {
 
 /* Classe de esconder */
 
-/* .hide {
+.hide {
     display: none !important;
-} */
+} 
 
 
 #scoreboard-box {
@@ -88,7 +88,7 @@ h1 {
 }
 
 .score-box {
-    margin: 0 auto;
+    margin: 0 30px;
 }
 
 #x-scoreboard {
@@ -98,8 +98,9 @@ h1 {
 
 #o-scoreboard {
     display: inline-block;
-    width: 18px;
-    height: 18px;
+    width: 19px;
+    height: 19px;
+    border-radius: 50%;
     border: 2px solid green;
     margin-right: 3px;
 }
@@ -118,5 +119,4 @@ h1 {
     background-color: #000;
     color: #fff;
     padding: 20px;
-    display: none;
 }
