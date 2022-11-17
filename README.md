@@ -7,11 +7,11 @@ Este projeto é um jogo da velha, foi criado com HTML, CSS e JavaScript. O proje
 ## Funcionamento do projeto:
 
 <p align="left">
-  <img width="800px" src="/assets/img/gif1.gif">
+  <img width="600px" src="/assets/img/gif1.gif">
 </p>
 
 <p align="left">
-  <img width="800px" src="/assets/img/gif2.gif">
+  <img width="600px" src="/assets/img/gif2.gif">
 </p>
 
 ## Conceitos tratados:
